@@ -5,9 +5,7 @@
   Một [LẬP TRÌNH VIÊN / SINH VIÊN / NGƯỜI ĐAM MÊ CÔNG NGHỆ] đến từ [VIỆT NAM  ]
 </h3>
 
-<p align="center">
-  <img src="https://i.imgur.com/qj1gU8a.gif" alt="Coding GIF" width="600"/>
-</p>
+
 
 ---
 
