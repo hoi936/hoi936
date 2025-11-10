@@ -1,8 +1,8 @@
 <h1 align="center">
-  Xin chào 👋, tôi là Hoi
+  Xin chào 👋, tôi là Phan Đình Hồi
 </h1>
 <h3 align="center">
-  Một [LẬP TRÌNH VIÊN / SINH VIÊN / NGƯỜI ĐAM MÊ CÔNG NGHỆ] đến từ [VIỆT NAM  ]
+  Một [LẬP TRÌNH VIÊN / SINH VIÊN / NGƯỜI ĐAM MÊ CÔNG NGHỆ] đến từ [VIỆT NAM]
 </h3>
 
 
@@ -13,7 +13,7 @@
 
 <p align="left">
   <br>
-  🌱 Tôi hiện đang học [Đại Học Bách Khoa - Đại học đà nẵng ]
+  🌱 Tôi hiện đang học [Đại Học Bách Khoa - Đại học Đà Nẵng ]
   <br>
   👯 Tôi đang tìm cơ hội hợp tác về [Các dự án Web, App , Game , và các hệ thống thông minh kết hợp AI và IoT]
   <br>
